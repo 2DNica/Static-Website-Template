@@ -2,5 +2,5 @@
 
 define('HOST', 'localhost');
 define('stadw1307_user', 'root');
-define('u@}5Ku6]^zI9', '');
+define('........', ''); // mettere la password del tuo db 
 define('stadw1307_db', 'test');
