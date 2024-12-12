@@ -1,3 +1,9 @@
+## Anteprima del Sito
+
+Puoi vedere l'anteprima del sito cliccando su [Anteprima del Sito](preview.pdf).
+
+
+
 ## Descrizione
 
 Un sito web sviluppato utilizzando PHP, Bootstrap, JavaScript e HTML. 
@@ -30,9 +36,7 @@ L'interfaccia moderna e reattiva, resa possibile da Bootstrap, garantisce un'esp
 2. **Login**: Gli utenti possono loggarsi con l'email e la password registrata.
 3. **Gestione Utenti**: Gli utenti possono vedere e modificare i loro profili.
 
-## Anteprima del Sito
 
-Puoi vedere l'anteprima del sito cliccando su [Anteprima del Sito](preview.pdf).
 
 ## Contributi
 
