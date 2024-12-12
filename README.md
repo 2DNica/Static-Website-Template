@@ -33,14 +33,6 @@ Il database di questo progetto è stato gestito utilizzando phpMyAdmin. Durante 
 4. **Accedi all'applicazione**
     Apri il browser e vai su `http://localhost:8000`
 
-## Uso
-
-1. **Registrazione**: Gli utenti possono registrarsi con i loro dettagli.
-2. **Login**: Gli utenti possono loggarsi con l'email e la password registrata.
-3. **Gestione Utenti**: Gli utenti possono vedere e modificare i loro profili.
-
-
-
 ## Contributi
 
 Siamo aperti ai contributi! Ecco come puoi contribuire:
