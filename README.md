@@ -37,22 +37,6 @@ Questo progetto di sito web include funzionalità come la registrazione, il logi
 
 ## Anteprima del Sito
 
-### Home Page
-![Anteprima Home Page](path/to/homepage-image.png)
-
-### Pagina di Login
-![Anteprima Pagina di Login](path/to/loginpage-image.png)
-
-### Profilo Utente
-![Anteprima Profilo Utente](path/to/profilepage-image.png)
-
-## Contributi
-
-Siamo aperti ai contributi! Ecco come puoi contribuire:
-1. Fai un fork del repository.
-2. Crea un nuovo branch (es. `feature/nome-funzionalità`).
-3. Fai le modifiche necessarie e committale.
-4. Apri una pull request.
 
 ## Licenza
 
