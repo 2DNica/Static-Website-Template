@@ -12,7 +12,7 @@ if ($nome == "") {
     die();
 }
 
-$a = "denis@dwb.it";
+$a = "...........";  // Mettere l'indirizzo mail che riceve le mail dal utente
 $oggetto = "Email dal Modulo Contatti del sito web flow_cloud_dwb";
 $messaggio = "
 <h1>Messaggio dal sito:</h1>
@@ -30,7 +30,7 @@ $messaggio = "
 
 $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-$headers .= 'From: denis@dwb.it' . "\r\n";
+$headers .= 'From: ........' . "\r\n";  //  mettere la mail che riceve le mail dal utente
 
 if (mail($a, $oggetto, $messaggio, $headers)) {
     header('location: ../contatti.php?invio=ok');
